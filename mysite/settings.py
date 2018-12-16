@@ -25,7 +25,7 @@ SECRET_KEY = 'zt4=_=q6owah!)iuj%8&4(_tn3_-0k@i-ez+$cwa4ivx^kh2mp'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1','<VolatianaYuliana>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1','VolatianaYuliana.pythonanywhere.com']
 
 
 # Application definition
